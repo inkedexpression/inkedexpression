@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Srinivas Innovation and Incubation Center as Content Manager**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/inkedexpression?tab=repositories](https://github.com/inkedexpression?tab=repositories)
 
