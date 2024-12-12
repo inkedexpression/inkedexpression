@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/inkedexpression?tab=repositories](https://github.com/inkedexpression?tab=repositories)
 
-- 💬 Ask me about Python** ,**C 
+- 💬 Ask me about **Python** ,**C** 
 
 - 📫 How to reach me **ddnaik1803@gmail.com**
 
