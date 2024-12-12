@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **Srinivas Innovation and Incubation Center as Content Manager**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **MLOPs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/inkedexpression?tab=repositories](https://github.com/inkedexpression?tab=repositories)
 
-- 💬 Ask me about **C , Python**
+- 💬 Ask me about Python** ,**C 
 
 - 📫 How to reach me **ddnaik1803@gmail.com**
 
