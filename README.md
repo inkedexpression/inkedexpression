@@ -1,19 +1,19 @@
 <img src="https://bito.ai/wp-content/uploads/2023/07/77-1.jpg" alt="GitHub Masterhead" style="width: 100%; height: auto;">
 <h1 align="center">Hi 👋, I'm D Dhanush Naik</h1>
 
-<h3 align="center">A passionate AI engineer from Bharat(India)</h3>
+<h3 align="center">A passionate Data Analyst from Bharat(India)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=inkedexpression&label=Profile%20views&color=0e75b6&style=flat" alt="inkedexpression" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ddhanush" target="blank"><img src="https://img.shields.io/twitter/follow/ddhanush?logo=twitter&style=for-the-badge" alt="ddhanush" /></a> </p>
 
-- 🔭 I’m currently working on **Srinivas Innovation and Incubation Center as Content Manager**
+- 🔭 I’m currently working on **Zomato Case Study**
 
 - 🌱 I’m currently learning **Data Analysis**
 
 - 👨‍💻 All of my projects are available at [https://github.com/inkedexpression?tab=repositories](https://github.com/inkedexpression?tab=repositories)
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python SQl Bi**
 
 - 📫 How to reach me **ddnaik1803@gmail.com**
 
